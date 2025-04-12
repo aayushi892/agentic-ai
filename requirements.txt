@@ -1,0 +1,6 @@
+streamlit
+langchain
+crewai
+openai
+duckduckgo-search
+tavily-python
